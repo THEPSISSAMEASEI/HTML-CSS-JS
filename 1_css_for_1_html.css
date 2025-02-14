@@ -1,0 +1,13 @@
+body {
+    background-color: color-mix(#FFF3E0 , #5748A3) ;
+    text-align: center ;
+}
+.footer {
+    background-color: color-mix(in srgb-linear, #FFF3E0 50%, #5748A3 50%);
+    text-align: center ;
+    position : fixed ;
+    left: 0 ;
+    bottom : 0 ;
+    width : 100% ;
+    height : 100px ;
+}
