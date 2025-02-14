@@ -1,0 +1,15 @@
+.body {
+    background: linear-gradient(90deg, hsla(354, 95%, 24%, 1) 0%, hsla(234, 70%, 24%, 1) 100%);
+    text-align: center;
+    color:white;
+}
+.main {
+    background: linear-gradient(90deg, hsla(354, 95%, 24%, 1) 0%, hsla(234, 70%, 24%, 1) 100%);
+    text-align: center;
+    color:white;
+}
+.footer {
+    background: linear-gradient(90deg, hsla(354, 95%, 24%, 1) 0%, hsla(234, 70%, 24%, 1) 100%);
+    text-align: center;
+    color:white;
+}
